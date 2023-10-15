@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://hm.aannestads.com/sitemap.xml
