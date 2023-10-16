@@ -27,4 +27,38 @@ body {
     text-decoration: none;
   }
 
+.preview-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+.page-preview {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+    margin-bottom: 10px;
+}
+
+.preview-header {
+    font-weight: bold;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+
+.preview-content {
+    font-size: 0.9em;
+}
+
+.external-link {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+}
+
+.external-link:hover {
+    text-decoration: underline;
+}
 
