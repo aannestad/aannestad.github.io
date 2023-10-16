@@ -31,25 +31,27 @@ body {
     border: 1px solid #ccc;
     padding: 10px;
     margin: 20px 0;
-    cursor: pointer;
+    text-align: center;
 }
 
-.page-preview {
+.screenshot {
+    max-width: 100%;
     border: 1px solid #ccc;
-    padding: 10px;
-    background-color: #f9f9f9;
     margin-bottom: 10px;
 }
 
-.preview-header {
+.external-link {
+    text-decoration: none;
+    color: #007BFF;
     font-weight: bold;
-    border-bottom: 1px solid #ccc;
-    padding-bottom: 5px;
-    margin-bottom: 5px;
+    display: block;
+    padding: 10px;
+    border: 1px solid #007BFF;
+    border-radius: 5px;
 }
 
-.preview-content {
-    font-size: 0.9em;
+.external-link:hover {
+    background-color: #f5f5f5;
 }
 
 .external-link {
