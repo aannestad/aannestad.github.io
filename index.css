@@ -54,7 +54,5 @@ body {
 
 .external-link:hover {
     background-color: #f5f5f5;
-    text-decoration: underline;  /* Optional: Underline on hover for
+    text-decoration: underline;  /* Optional: Underline on hover for better visibility */
 }
-
-
