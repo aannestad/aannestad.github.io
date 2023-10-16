@@ -31,7 +31,7 @@ body {
     padding: 10px;
     margin: 20px 0;
     text-align: center;
-    display: inline-block; 
+    display: inline-block;
 }
 
 .screenshot {
@@ -44,13 +44,10 @@ body {
     text-decoration: none;
     color: black;
     font-weight: bold;
-    display: block;
- 
+    display: inline-block;
     padding: 10px;
- 
     font-size: 1.5em;
     background-color: transparent;
-    box-shadow: none;
 }
 
 .external-link:hover {
